@@ -14,7 +14,7 @@ body{
     transition: all 0.5s ease-in-out;
     background-color: #4aaaa5;
     padding: 0px 20px 0px 10px;
-    margin-left: 207px;
+    margin-left: 136px;
 }
 
 .navbar-brand:hover{
@@ -57,7 +57,7 @@ ul a:hover {
    }  
 
 .navbar-nav{
-    margin-right: 198px;
+    margin-right: 125px;
 }
 
 
